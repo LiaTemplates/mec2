@@ -72,7 +72,7 @@ and change it, as you wish.
     {{1}}
 1. Load the macros via
 
-   `import: https://github.com/liaTemplates/mec2/README.md`
+   `import: https://raw.githubusercontent.com/LiaTemplates/mec2/main/README.md`
 
 2. Copy the definitions into your Project
 
